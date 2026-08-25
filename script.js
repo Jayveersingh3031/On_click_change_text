@@ -1,4 +1,4 @@
-const arr =["apple", "mango,","grapes","banana"]
+const arr =["apple", "mango","grapes","banana"]
 let i=0;
 let h=document.querySelector("#h");
 h.addEventListener("click",function(){
